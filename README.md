@@ -43,3 +43,9 @@ Score:
 Renata Carvalho
 
 Projeto desenvolvido para estudos de Arquitetura de Software, APIs REST e Motores de Recomendação.
+
+## Dashboard
+
+<img width="756" height="592" alt="Central de Oportunidades VIVO" src="https://github.com/user-attachments/assets/34e74bd5-5a17-4937-9c2e-7145fb012c55" />
+
+
